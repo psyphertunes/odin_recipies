@@ -1,0 +1,1 @@
+This is a website building project I'm working on through the odin project
